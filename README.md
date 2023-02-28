@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add C++ Classify inference example (#6868)
