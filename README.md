@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Optimize function calls to method calls (#8507)
