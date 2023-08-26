@@ -1,1 +1,1 @@
-add logs
+Update CITATION.cff with cffinit corrections (#8658)
