@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Compare plt.get_backend() in lowercase (#8409)
