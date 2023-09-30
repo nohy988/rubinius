@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
