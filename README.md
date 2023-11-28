@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Feature: Create HUB Models from CLI or Python Script (#7316)
