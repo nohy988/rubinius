@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
