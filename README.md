@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
