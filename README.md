@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Remove unused variables (#8511)
