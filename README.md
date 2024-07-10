@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix IS_PYTHON_3_12 bug (#9258)
