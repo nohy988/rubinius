@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
