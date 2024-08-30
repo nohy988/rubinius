@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update the heatmap module code + docs (#7045)
