@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add YOLOv9 Docs page (#8478)
