@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix OBB xywh-angle concatenation bug (#7404)
